@@ -1,0 +1,15 @@
+{
+  "name": "telegram-spam-visit-link-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram untuk mengunjungi lin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "asrv",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.7.0",
+    "node-fetch": "^3.2.0"
+  }
+}
