@@ -4,7 +4,7 @@
 
 # Telegram Spam Visit Link Bot
 
-`Instalasi`
+# Instalasi
 ```bash
 https://github.com/ditt12/telegram-spam-visit-link-bot && cd telegram-spam-visit-link-bot
 ```
